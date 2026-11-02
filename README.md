@@ -18,8 +18,6 @@ defi-forensic-yield-aggregator/
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
-├── docs/
-│   └── GITHUB_VSCODE_GUIDE.md        # step-by-step: VS Code → GitHub
 └── notebooks/                        # original notebooks, unmodified
     ├── defi_forensic_yield_aggregator_v1.ipynb
     ├── defi_forensic_yield_aggregator_v2.ipynb
