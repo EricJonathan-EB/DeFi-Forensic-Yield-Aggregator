@@ -1,0 +1,18 @@
+# Data / model caches produced by running the notebooks (re-creatable, can be large)
+notebooks/artifacts/
+notebooks/data/
+artifacts/
+data/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
